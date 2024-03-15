@@ -8,7 +8,7 @@ Roll until you get all dice the same!
 When you accomplish this a great firework will appear on your screen!
 
 <br/>
-<img src="./tenzies.png" alt="Screenshot of Tenzies game." width="400px"/>
+<img src="./tenzies-sv-big.png" alt="Screenshot of Tenzies game." width="400px"/>
 
 ## Technologies
 - HTML
@@ -18,7 +18,7 @@ When you accomplish this a great firework will appear on your screen!
 
 ## Live link
 Tenzies is deployed here:
-[https://toms-tenzies.netlify.app](https://toms-tenzies.netlify.app)
+[https://tenzies-sv.netlify.app](https://tenzies-sv.netlify.app)
 
 Please feel free to visit and try the game!
 
