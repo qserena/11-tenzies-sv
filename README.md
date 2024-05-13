@@ -25,6 +25,6 @@ Please feel free to visit and try the game!
 ## What I learned
 ### Conditional styling
 
-### Conditionall rendering
+### Conditional rendering
 
 ### Keep track of certain condition
